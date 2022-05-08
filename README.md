@@ -1,5 +1,5 @@
 # Screenshot
-![](docs/screenshot.png)
+![](docs/screenshotv2.png)
 
 ### Installation
 

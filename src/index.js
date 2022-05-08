@@ -19,5 +19,5 @@ app.use(express.static(path.join(__dirname, "public")));
 
 // listening the Server
 app.listen(app.get("port"), () => {
-  console.log("Server on port", app.get("port"));
+  console.log("Escuchando puerto", app.get("port"));
 });
